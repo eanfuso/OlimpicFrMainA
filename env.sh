@@ -1,0 +1,31 @@
+#MAIN
+#ae-15.edge6.Miami1.Level3.net (4.68.62.57)  138.282 ms
+
+#export MAINIP="47.252.69.99" #REAL
+export MAINIP="47.254.181.155"
+export MAINPASSPHRASE="m6Vi0r6m106WJZ1Y"
+export MAINHDX11="3084"
+export MAINHDX12="3085"
+export MAINHDX13="3086"
+export MAINHDX14="3087"
+export MAINHDX15="3088"
+
+#BACKUP
+
+#if-ae-35-2.tcore1.fr0-frankfurt.as6453.net (195.219.50.74)  228.751 ms
+#export BACKUPIP="47.254.181.155" #REAL
+export BACKUPIP="47.252.69.99"
+export BACKUPPASSPHRASE="m6Vi0r6m106WJZ1Y"
+export BACKUPHDX11="3084"
+export BACKUPHDX12="3085"
+export BACKUPHDX13="3086"
+export BACKUPHDX14="3087"
+export BACKUPHDX15="3088"
+
+
+# bitrate
+export BRSTUFF="27000000"
+export BRSERVICE="27000000"
+export BRASI="60000000"
+export LATENCYM="920"
+export LATENCYB="920"
